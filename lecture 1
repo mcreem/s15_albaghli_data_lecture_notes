@@ -5,3 +5,17 @@ data analytics:
   - 
 
 Storage
+  - No SQL (e.g. casandra delivers data as fast as possible, but not good in fast query)
+  - Graph (dtabases and analytics)
+  - key value stores
+  - colomer
+
+Data modeling is hard to do, easy to get wrong.
+
+Data lifecycle: [we collect data when we have a question]
+  - whats the question (curation: longevity of the data source + triage)
+  - collection (from web or sensors etc)
+  - Clean up
+  - Storage
+  - Processong/analysis
+  - Query + Visualize + act
