@@ -13,9 +13,16 @@ Storage
 Data modeling is hard to do, easy to get wrong.
 
 Data lifecycle: [we collect data when we have a question]
-  - whats the question (curation: longevity of the data source + triage)
-  - collection (from web or sensors etc)
-  - Clean up
-  - Storage
-  - Processong/analysis
-  - Query + Visualize + act
+  - whats the question (curation: longevity of the data source + triage) <----
+  - collection (from web or sensors etc)                                      |
+  - Clean up                                                                  |
+  - Storage                                                                   |
+  - Processong/analysis                                                       |
+  - Query + Visualize + act ----------------- new questions ------------------
+  
+  note: curation is prioritization of the data source, which will give me the best value
+  
+  this cycle is in any startup/company in the data feild.
+  
+  The most common way that useres interact with big data through Http request:
+  most comomm requests: Get, post, put, and delete -----> responce Cycle.
