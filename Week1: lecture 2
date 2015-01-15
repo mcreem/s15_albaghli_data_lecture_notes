@@ -5,8 +5,18 @@ Presentation on markup
 - links use square brackets for the title and link within paranthesis 
 - use three ``` for code blocks, followed by the name of the programming language to be used.  
   Theres also a coloring scheme for each language.
+- to make a new line, add two spaces or two enters to have a new line ( its called new paragraph )
 
-note: to make a new line, add two spaces or two enters to have a new line ( its called new paragraph )
+
+a good recourse online is daring fireball markdown: specification of markdown and how to use it, specs and examples.
+
+Web browser ----------- request with URL -------------> Web server/ App server---Handler-->
+
+
+GET (most common)
+POST
+DELETE
+PUT
 
 
 
