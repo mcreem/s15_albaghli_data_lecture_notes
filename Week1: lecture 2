@@ -18,5 +18,20 @@ POST
 DELETE
 PUT
 
+- a handler is usualy a spearate entity, and typically you get 2 seconds before you loose a user!
+
+REST : Representation/Resource State Transfer
+URI (a general class of URL's) -- they describe a class of links larger than URL's, they access resources
+    CRUD
+    REPE
+   
+in the end you can create globally referenes resources
+
+GET- Read
+POST - Create  { DATA }
+PUT - Update
+DELETE - Destroy
+
+
 
 
