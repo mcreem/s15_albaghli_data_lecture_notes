@@ -1,0 +1,26 @@
+
+Examples of manipulating users through GET, UPDATE, DELETE.
+
+- right after the question mark woulf indicate query
+  GET /api/1.0/search?q=tattersail (this would search with tatersail as the query)
+  
+POST and PUT sends data
+
+we can individually create posessionsions that are independant of users
+users/0
+posessions/1
+but users/0/posession# creating posessions for user0
+
+so we have to think about how we would want to create them, what the data is like 
+and whats the true relationships like.
+
+
+- GET /api/1.0/posts/0/comments/1  >> this would retrieve the post's first comment
+however 
+- GET /api/1.0/posts/0             >> this would return all comments of post 0
+
+
+
+
+
+
