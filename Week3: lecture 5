@@ -2,3 +2,7 @@ NODE.JS
 
 
 in reading java script code functions can be passed as parameters (in explanation 2)
+
+callbacks get indented (callback hell)
+
+NODE is single threaded! no race conditions.
